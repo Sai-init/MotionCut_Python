@@ -1,2 +1,2 @@
 # MotionCut_Python
-Weekly Tasks of Python Programming Internship 
+Weekly Tasks of 1 month Virtual Python Programming Internship 
